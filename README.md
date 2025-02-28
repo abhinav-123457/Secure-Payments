@@ -3,7 +3,7 @@
 
 **Tagline**: "Pay Smart, Stay Safe: AI-Driven Precision "
 
-PaySafe is a sleek, AI-powered dashboard for Ethereum payments—built for a hackathon to make sending ETH **safer**, **faster**, and **smarter**. It blends real-time fraud detection, batch processing, and a stunning UI to redefine blockchain transactions.
+Secure Payments is a sleek, AI-powered dashboard for Ethereum payments—built for a hackathon to make sending ETH **safer**, **faster**, and **smarter**. It blends real-time fraud detection, batch processing, and a stunning UI to redefine blockchain transactions.
 
 ## Features
 - **Real-Time AI Risk Detection**: Self-learning AI flags fraud by analyzing txs—adapts live with every move.
