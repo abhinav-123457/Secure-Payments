@@ -24,3 +24,9 @@ PaySafe is a sleek, AI-powered dashboard for Ethereum payments—built for a hac
    ```bash
    git clone https://github.com/abhinav-123457/Secure-Payments.git
    cd paysafe-hackathon
+2. **Then**:
+   ```bash
+   npm install
+3. **Run Locally**:
+   ```bash
+   npm start
